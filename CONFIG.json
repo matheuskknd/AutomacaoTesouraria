@@ -1,0 +1,60 @@
+{
+  "WS": {
+    "url_ABTSWS": "http://webservice-ts-hml.bancoarbi.com.br/ABTSWS/services/TS_Services",
+    "url_ABGRWS": "http://webservice-gr-hml.bancoarbi.com.br/sgr.net/ws/GR_ServicesNC.asmx",
+    "url_ABWJWS": "http://webservice-wj-hml.bancoarbi.com.br/ABWJWS/services/ABWJWS",
+    "TS": {
+      "codSisOrigem": "APISPT",
+      "ultimo_nroOrigem": "30000000152",
+      "codColigadaCad": "001",
+      "codAgenciaCad": "00019",
+      "codDeptoCad": "0000001",
+      "codUsuarioCad": "nome_usuario_parceiro",
+      "codColigadaOpe": "001",
+      "codAgenciaOpe": "00019",
+      "STR0004": {
+        "codCarteira": "999",
+        "codEvento": "9999",
+        "tipLiquidacao": "804"
+      },
+      "STR0006": {
+        "codCarteira": "999",
+        "codEvento": "9999",
+        "tipLiquidacao": "806"
+      },
+      "STR0007": {
+        "codCarteira": "999",
+        "codEvento": "9999",
+        "tipLiquidacao": "STR0007"
+      },
+      "BLOQUETE": {
+        "codCarteira": "006",
+        "codEvento": "0229",
+        "tipLiquidacao": "BLOQUETE"
+      },
+      "STR0026": {
+        "codCarteira": "006",
+        "codEvento": "0229",
+        "tipLiquidacao": "STR0026"
+      }
+    },
+    "fav": {
+      "cnpjCpfFav": "00000000000191",
+      "tipPesFav": "J",
+      "nomeFav": "BANCO DO BRASIL S.A.",
+      "codBancoFav": "001",
+      "codAgenciaFav": "00019",
+      "nroContaFav": "00000000000000000000",
+      "codIspbFav": "00000000"
+    },
+    "sac": {
+      "cnpjCpfSac": "54403563000150",
+      "tipPesSac": "J",
+      "nomeSac": "Banco Arbi S/A",
+      "codBancoSac": "213",
+      "codAgenciaSac": "0001",
+      "dvAgenciaSac": "9",
+      "nroContaSac": "7140019566"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.venv/*
+dist/*
+**/__pycache__/*
+htmlcov/*
+.coverage
+build/*
+dist/*
+
+output.json
+
+README.html
+README.pdf
+*.spec
+*.xlsx

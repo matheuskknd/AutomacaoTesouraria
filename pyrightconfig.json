@@ -1,0 +1,30 @@
+{
+  "include": [
+    "*.py"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "**/test_*",
+    "**/.*"
+  ],
+  "ignore": [
+    "typings/*",
+    "**/test_*",
+    "**/.*"
+  ],
+  "defineConstant": {
+    "DEBUG": true
+  },
+  "extraPaths": [],
+  "venvPath": ".",
+  "venv": ".venv",
+  "typeCheckingMode": "strict",
+  "useLibraryCodeForTypes": true,
+  "verboseOutput": false,
+  "pythonVersion": "3.10",
+  "pythonPlatform": "All",
+  "reportMissingTypeStubs": "information",
+  "reportUnknownMemberType": "information",
+  "reportUnknownVariableType": "information",
+  "reportMissingTypeArgument": "information"
+}

@@ -1,0 +1,7 @@
+pyinstaller
+pip-tools
+xmltodict
+requests
+pylint
+pyright
+yapf
